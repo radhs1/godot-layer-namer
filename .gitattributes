@@ -1,1 +1,5 @@
-README.md export-ignore
+* text=auto eol=lf
+
+/**        export-ignore
+/addons    !export-ignore
+/addons/** !export-ignore
